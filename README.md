@@ -1,13 +1,12 @@
 # GAIP PROJECT GROUP 12
 ## Sentence generation after Sign language recognition and translation
 
-Faculty incharge - 
-    <ul>
+Faculty incharge - <ul>
     <li>**Dr. TAN Wee Kek**
     <li>**Dr. LEK Hsiang Hui**
     <li>**Dr. Amirhassan Monajemi**
 
-**_Project Abstract : -** <br/>
+**Project Abstract : -** <br/>
 
 
 **Source of Dataset** -
@@ -28,8 +27,7 @@ Faculty incharge -
 4.  **Run prediction.ipynb :**
         
 
-Group Members : 
-<ul>
+Group Members : <ul>
 <li>Ayush Bachuwar 
 <li>Dhathri Meda 
 <li>Mrinmoy Kumar Das 
